@@ -1,0 +1,1 @@
+A basic (in progress) site built using Wagtail CMS, Python and Django framework. Wagtail is an open source CMS written in Python and built on the Django web framework.
